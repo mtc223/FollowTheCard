@@ -397,7 +397,6 @@ public class FollowTheCard extends JPanel implements MouseListener{
         JOptionPane.showConfirmDialog(null, "You lose", "You suck",JOptionPane.OK_OPTION);
         System.out.println(place); 
         System.exit(0);
-        
 }
 }
     @Override
